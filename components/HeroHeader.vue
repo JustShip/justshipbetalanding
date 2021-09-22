@@ -1,7 +1,7 @@
 <template>
 <div id="header" class="flex flex-col text-center justify-center text-white">
         <div class="flex justify-between">
-            <img src="../assets/black.svg" class=" mt-5 ml-3 w-14 h-14 sm:w-20 sm:h-20 xl:w-28 xl:h-28"/>
+            <img src="./assets/black.svg" class=" mt-5 ml-3 w-14 h-14 sm:w-20 sm:h-20 xl:w-28 xl:h-28"/>
             
         </div>
        
@@ -10,7 +10,7 @@
         <p class="text-base sm:text-lg xl:text-2xl sm:text-left  font-normal mt-5 sm:mt-8 xl:mt-12 mb-5 sm:mb-8 xl:mb-12 w-3/4 sm:w-96 sm:-ml-36">Lancemos tu producto hoy, convierte con nosotros tus dudas en combustible, suscribete ahora para obtener beneficios.</p>
         <button class="flex justify-center  items-center content-center  sm:-ml-36 text-base sm:text-lg xl:text-2xl bg-white px-4 sm:px-6 xl:px-16 w-24 sm:w-28 xl-36 h-8 sm:h-10 xl:h-14 rounded-lg sm:rounded-xl shadow-sm sm:shadow-md mb-3 sm:mb-5 xl:mb-8 " id="btn-sub">Suscribete</button>  
         <button class="tex-base sm:text-lg xl:text-2xl  bg-transparent sm:-ml-36 w-24 sm:w-28 xl:w-36 h-8 sm:h-10">Dona</button>  
-       <img class=" w-40 sm:w-60 h-40 sm:h-60 xl:w-72 xl:h-72 2xl:w-80 2xl:h-80 mt-4 sm:absolute sm:right-4 xl:right-20 sm:-mt-20"  src="../assets/launching-pana.svg"/>
+       <img class=" w-40 sm:w-60 h-40 sm:h-60 xl:w-72 xl:h-72 2xl:w-80 2xl:h-80 mt-4 sm:absolute sm:right-4 xl:right-20 sm:-mt-20"  src="./assets/launching-pana.svg"/>
         
         </div>
        
